@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Gustavo Henrique, tudo bem? 👋
 
-- 🔭 Hoje estudo front-end
 - 🌱 Estudando Javascript e Flutter
-- 📫 Contate-me no e-mail: gustavohcsantos@gmail.com
 - 😄 Pronouns: ele/dele
 
  <div>
