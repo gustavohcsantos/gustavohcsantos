@@ -1,6 +1,7 @@
-### Olá! Eu sou o Gustavo Henrique, tudo bem? 👋
+### "O verdadeiro mestre é um eterno aprendiz", já dizia o monodedo do Master Yi no LoL.
+#### Não sou um grande programador (ainda), mas em breve serei. Desistir não é uma opção!
 
-- 🌱 Estudando Javascript e Flutter
+- 🌱 Estudando Javascript, Flutter, PHP, MySQL
 
  <div>
   <a href="https://github.com/gustavohcsantos">
