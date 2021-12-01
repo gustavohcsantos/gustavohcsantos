@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gustavo Henrique, tudo bem? 👋
 
 - 🌱 Estudando Javascript e Flutter
-- 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/gustavohcsantos">
@@ -9,11 +8,12 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohcsantos&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
   
@@ -27,3 +27,5 @@
   <a href="https://www.linkedin.com/in/gustavohcsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+ 
+ <!-- https://devicon.dev, https://dev.to/envoy_/150-badges-for-github-pnk -->
