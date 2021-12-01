@@ -1,7 +1,7 @@
 ### "O verdadeiro mestre é um eterno aprendiz", já dizia o monodedo do Master Yi no LoL.
 #### Não sou um grande programador (ainda), mas em breve serei. Desistir não é uma opção!
 
-- 🌱 Estudando Javascript, Flutter, PHP, MySQL
+- 🌱 Estudando Javascript, PHP, MySQL
 
  <div>
   <a href="https://github.com/gustavohcsantos">
