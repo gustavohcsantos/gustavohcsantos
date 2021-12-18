@@ -1,5 +1,4 @@
-### "O verdadeiro mestre é um eterno aprendiz", já dizia o monodedo do Master Yi no LoL.
-#### Não sou um grande programador (ainda), mas em breve serei. Desistir não é uma opção!
+#### "O verdadeiro mestre é um eterno aprendiz", já dizia o monodedo do Master Yi no LoL.
 
 - 🌱 Estudando Javascript, PHP, MariaDB
 
