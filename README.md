@@ -1,6 +1,6 @@
 #### "O verdadeiro mestre é um eterno aprendiz", ~ Master Yi.
 
-- 🌱 Estudando Javascript, PHP, MySQL, HTML, CSS.
+- 🌱 Desenvolvedor Fullstack PHP Junior
 
  <div>
   <a href="https://github.com/gustavohcsantos">
