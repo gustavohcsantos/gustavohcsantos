@@ -1,5 +1,4 @@
-## Oláá, me chamo Gustavo Henrique
-#### "O verdadeiro mestre é um eterno aprendiz", ~ Master Yi.
+## "O verdadeiro mestre é um eterno aprendiz!"
 <div>
   <a href="https://github.com/gustavohcsantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavohcsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
