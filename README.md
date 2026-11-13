@@ -1,11 +1,21 @@
-## "O verdadeiro mestre é um eterno aprendiz!"
-<div>
-  <a href="https://github.com/gustavohcsantos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavohcsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohcsantos&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## Hi, I'm Gustavo Henrique 👋
 
-<div>
-  <a href = "mailto:gustavohcsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo78henrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Technology | Software Development | Continuous Learning
+
+My background combines technology studies, hands-on business management, and a practical interest in solving problems through software.
+
+I'm currently focused on strengthening my programming skills, building practical projects, and improving my knowledge of software development.
+
+Technologies I've studied and practiced
+- PHP
+- JavaScript
+- HTML5 & CSS3
+- MySQL
+- PostgreSQL
+- Git & GitHub
+
+A little about me
+
+Based in Brasília, Brazil. Degree in Systems Analysis and Development. Background in entrepreneurship and business operations. Interested in national and international career opportunities.
+
+"A true master is a lifelong learner." 🚀
